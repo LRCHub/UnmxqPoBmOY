@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "UNDERWATER",
+  "base_artist": "Hylen",
+  "createdAt": "2025-12-17T09:11:55.308434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There's Nothing Underwater",
+      "artist": "Lightspeed Champion",
+      "has_synced": true,
+      "path": "select/01_There's_Nothing_Underwater_Lightspeed_Champion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breathing Underwater",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/02_Breathing_Underwater_Metric.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Underwater Snow",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/03_Underwater_Snow_múm.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Underwater",
+      "artist": "Sun's Signature",
+      "has_synced": false,
+      "path": "select/04_Underwater_Sun's_Signature.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Breathe Underwater",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/05_Breathe_Underwater_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breathe Underwater (Slow)",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/06_Breathe_Underwater_(Slow)_Placebo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Underwater Love (Radio Edit)",
+      "artist": "Smoke City",
+      "has_synced": false,
+      "path": "select/07_Underwater_Love_(Radio_Edit)_Smoke_City.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everybody Changes Underwater",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/08_Everybody_Changes_Underwater_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Underwater Love",
+      "artist": "Smoke City",
+      "has_synced": true,
+      "path": "select/09_Underwater_Love_Smoke_City.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Livin' Underwater (Is Somethin' Wild)",
+      "artist": "The Avalanches",
+      "has_synced": true,
+      "path": "select/10_Livin'_Underwater_(Is_Somethin'_Wild)_The_Avalanches.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Underwater World",
+      "artist": "ATB",
+      "has_synced": false,
+      "path": "select/11_Underwater_World_ATB.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Underwater",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/12_Underwater_Cranes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Underwater",
+      "artist": "Boy Harsher",
+      "has_synced": false,
+      "path": "select/13_Underwater_Boy_Harsher.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Underwater",
+      "artist": "Bassnectar feat. Tina Malia",
+      "has_synced": false,
+      "path": "select/14_Underwater_Bassnectar_feat._Tina_Malia.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Underwater",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/15_Underwater_Denzel_Curry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNDERWATER",
+      "artist": "Hylen",
+      "has_synced": false,
+      "path": "select/pl_01_UNDERWATER_Hylen.txt"
+    }
+  ]
+}
